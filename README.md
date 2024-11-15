@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan Seweoster</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanseweoster&label=Profile%20views&color=0e75b6&style=flat" alt="serkanseweoster" /> </p>
 
-- 📫 How to reach me **serkansewoster1903@gmail.com**
+- 📫 How to reach me **seikoxtest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
